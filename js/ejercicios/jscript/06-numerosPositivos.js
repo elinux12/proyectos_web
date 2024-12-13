@@ -4,7 +4,7 @@ Crear algoritmo que regrese la cantidad
 */
 
 let array=[2,5,7,15,-5-100,55];
-
+/**
 function cuantosPositivos(arr){
   let contador =0;
   for (i in arr){
@@ -14,5 +14,15 @@ function cuantosPositivos(arr){
   }
   return contador;
 }
+
+*/
+function cuantosPositivos(arr){
+  let contador=0;
+  for (i in arr){
+    
+  }
+}
+
 let resultado = cuantosPositivos(array);
 console.log(resultado);
+
